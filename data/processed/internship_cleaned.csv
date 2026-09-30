@@ -1,0 +1,151 @@
+Intern ID,Name,Gender,University,Department,Duration (Weeks),Mode,Mentor Meetings,Attendance %,CGPA,Stipend,Completed,Dropped,Low Attendance
+INT001,Hira Khan,Female,Iqra University,Marketing,4,Remote,7,67,2.47,0,Yes,No,True
+INT002,Usman Khan,Male,Iqra University,AI,12,Remote,5,60,2.56,10000,Yes,No,True
+INT003,Bilal Khan,Female,FAST,Web Development,4,Remote,8,73,3.89,5000,Yes,No,False
+INT004,Usman Khan,Female,Iqra University,Marketing,8,Hybrid,6,84,3.78,30000,Yes,No,False
+INT005,Ayesha Khan,Female,NED,Marketing,8,Hybrid,4,91,3.04,20000,No,Yes,False
+INT006,Ahmed Khan,Female,FAST,Marketing,8,Hybrid,4,71,2.34,15000,No,Yes,False
+INT007,Zain Khan,Female,KU,Data Analytics,4,Hybrid,8,66,3.2,20000,Yes,No,True
+INT008,Fatima Khan,Male,Bahria University,AI,12,Onsite,10,98,2.68,20000,Yes,No,False
+INT009,Ali Khan,Female,NED,Marketing,12,Hybrid,9,92,3.03,25000,Yes,No,False
+INT010,Ahmed Khan,Female,Iqra University,HR,8,Onsite,2,59,3.98,10000,No,Yes,True
+INT011,Zain Khan,Male,NED,HR,8,Remote,3,56,2.99,20000,Yes,No,True
+INT012,Usman Khan,Female,FAST,AI,6,Hybrid,10,94,3.15,0,Yes,No,False
+INT013,Maham Khan,Male,FAST,HR,4,Remote,8,60,2.37,15000,Yes,No,True
+INT014,Noor Khan,Female,NED,Data Analytics,8,Hybrid,7,73,3.98,15000,Yes,No,False
+INT015,Hamza Khan,Female,NED,Marketing,8,Onsite,4,57,3.69,20000,No,Yes,True
+INT016,Ali Khan,Female,Bahria University,Web Development,8,Remote,8,99,3.28,20000,Yes,No,False
+INT017,Areeba Khan,Female,Iqra University,HR,12,Onsite,1,57,3.44,0,Yes,No,True
+INT018,Hira Khan,Female,Iqra University,Marketing,6,Onsite,2,59,3.58,20000,Yes,No,True
+INT019,Bilal Khan,Male,FAST,Marketing,6,Hybrid,8,81,3.87,10000,Yes,No,False
+INT020,Noor Khan,Male,FAST,Marketing,6,Remote,6,74,3.26,25000,Yes,No,False
+INT021,Saad Khan,Female,Bahria University,Web Development,8,Remote,6,81,3.71,30000,Yes,No,False
+INT022,Hamza Khan,Female,NED,Web Development,6,Onsite,2,57,3.4,25000,Yes,No,True
+INT023,Zain Khan,Male,FAST,AI,6,Remote,2,85,2.83,10000,Yes,No,False
+INT024,Hira Khan,Male,Iqra University,Marketing,12,Hybrid,9,74,3.34,10000,Yes,No,False
+INT025,Maham Khan,Female,Iqra University,AI,4,Remote,3,87,2.97,15000,Yes,No,False
+INT026,Ayesha Khan,Male,FAST,Web Development,8,Hybrid,2,100,3.27,5000,No,Yes,False
+INT027,Hira Khan,Male,NED,Web Development,4,Onsite,10,94,2.76,5000,Yes,No,False
+INT028,Hamza Khan,Female,Bahria University,HR,12,Remote,3,77,3.0,5000,No,Yes,False
+INT029,Hira Khan,Male,Bahria University,Web Development,6,Hybrid,1,69,3.11,10000,Yes,No,True
+INT030,Hamza Khan,Female,KU,Data Analytics,6,Hybrid,10,77,3.14,10000,Yes,No,False
+INT031,Areeba Khan,Female,KU,HR,12,Hybrid,10,72,3.6,30000,Yes,No,False
+INT032,Areeba Khan,Female,Bahria University,Web Development,8,Onsite,6,89,2.65,5000,Yes,No,False
+INT033,Saad Khan,Female,Bahria University,AI,12,Remote,1,86,3.73,5000,Yes,No,False
+INT034,Ahmed Khan,Female,Iqra University,Web Development,4,Remote,6,69,3.85,10000,No,Yes,True
+INT035,Bilal Khan,Male,Iqra University,AI,6,Onsite,9,69,2.57,5000,No,Yes,True
+INT036,Noor Khan,Male,NED,Marketing,4,Remote,9,88,3.37,20000,Yes,No,False
+INT037,Areeba Khan,Male,NED,Data Analytics,12,Hybrid,9,64,3.91,20000,No,Yes,True
+INT038,Hira Khan,Female,Bahria University,HR,6,Remote,6,98,2.64,0,Yes,No,False
+INT039,Hira Khan,Male,FAST,Data Analytics,6,Remote,2,61,3.33,20000,No,Yes,True
+INT040,Hira Khan,Male,FAST,Data Analytics,6,Hybrid,8,58,3.84,5000,No,Yes,True
+INT041,Maham Khan,Female,NED,AI,4,Remote,5,80,3.88,0,Yes,No,False
+INT042,Ahmed Khan,Female,Bahria University,HR,4,Hybrid,3,91,3.27,0,Yes,No,False
+INT043,Fatima Khan,Female,Iqra University,Data Analytics,12,Remote,4,71,3.62,25000,No,Yes,False
+INT044,Hamza Khan,Female,Iqra University,HR,8,Hybrid,1,60,3.39,20000,Yes,No,True
+INT045,Usman Khan,Female,KU,Data Analytics,6,Hybrid,9,73,3.48,5000,Yes,No,False
+INT046,Hamza Khan,Male,KU,HR,8,Onsite,2,69,2.59,5000,Yes,No,True
+INT047,Areeba Khan,Female,KU,HR,6,Remote,10,59,3.78,10000,Yes,No,True
+INT048,Bilal Khan,Male,Bahria University,HR,12,Remote,4,79,3.27,15000,No,Yes,False
+INT049,Hamza Khan,Male,Iqra University,HR,4,Onsite,6,56,2.52,25000,Yes,No,True
+INT050,Noor Khan,Female,NED,AI,6,Onsite,9,63,2.66,0,Yes,No,True
+INT051,Fatima Khan,Female,FAST,AI,4,Remote,2,97,3.22,30000,Yes,No,False
+INT052,Dua Khan,Male,FAST,Data Analytics,12,Remote,10,65,2.89,10000,Yes,No,True
+INT053,Sara Khan,Female,Iqra University,Data Analytics,8,Onsite,2,89,2.59,20000,No,Yes,False
+INT054,Usman Khan,Male,NED,Web Development,6,Remote,8,66,3.42,10000,No,Yes,True
+INT055,Hira Khan,Male,KU,Web Development,4,Onsite,4,87,2.86,0,Yes,No,False
+INT056,Fatima Khan,Female,KU,Web Development,8,Remote,4,85,3.78,5000,Yes,No,False
+INT057,Hira Khan,Female,Iqra University,Web Development,6,Remote,4,88,2.95,5000,No,Yes,False
+INT058,Hira Khan,Male,NED,Marketing,8,Remote,4,83,3.51,15000,Yes,No,False
+INT059,Ayesha Khan,Female,FAST,Data Analytics,4,Remote,10,85,2.78,30000,Yes,No,False
+INT060,Hira Khan,Female,KU,HR,8,Remote,1,67,2.34,20000,Yes,No,True
+INT061,Usman Khan,Male,Bahria University,AI,6,Onsite,10,84,3.2,25000,Yes,No,False
+INT062,Hira Khan,Male,Iqra University,Web Development,8,Hybrid,6,78,3.1,10000,Yes,No,False
+INT063,Hira Khan,Female,Bahria University,Data Analytics,4,Remote,6,87,2.47,5000,Yes,No,False
+INT064,Dua Khan,Male,Bahria University,Data Analytics,6,Hybrid,7,87,3.99,30000,Yes,No,False
+INT065,Sara Khan,Female,Bahria University,AI,8,Remote,3,96,2.84,10000,Yes,No,False
+INT066,Sara Khan,Male,FAST,HR,4,Remote,1,88,3.65,15000,Yes,No,False
+INT067,Usman Khan,Male,Iqra University,HR,8,Hybrid,5,65,3.99,20000,Yes,No,True
+INT068,Ayesha Khan,Male,KU,HR,8,Onsite,2,74,3.78,20000,Yes,No,False
+INT069,Fatima Khan,Male,Iqra University,HR,8,Hybrid,2,95,3.67,20000,No,Yes,False
+INT070,Fatima Khan,Female,Bahria University,Data Analytics,12,Remote,5,78,3.05,0,Yes,No,False
+INT071,Ahmed Khan,Male,Bahria University,Web Development,8,Onsite,4,62,2.58,0,No,Yes,True
+INT072,Ali Khan,Female,Bahria University,Web Development,8,Hybrid,9,72,2.79,0,Yes,No,False
+INT073,Usman Khan,Male,FAST,Data Analytics,8,Remote,7,85,3.68,30000,Yes,No,False
+INT074,Maham Khan,Female,Bahria University,AI,4,Hybrid,7,97,3.55,15000,Yes,No,False
+INT075,Hira Khan,Female,NED,HR,6,Remote,1,55,3.7,0,No,Yes,True
+INT076,Sara Khan,Male,Iqra University,Web Development,12,Hybrid,7,84,2.92,30000,Yes,No,False
+INT077,Dua Khan,Female,Iqra University,Web Development,6,Onsite,2,80,3.46,20000,Yes,No,False
+INT078,Ayesha Khan,Male,Bahria University,AI,6,Remote,2,72,2.37,25000,No,Yes,False
+INT079,Hamza Khan,Female,NED,AI,8,Remote,6,69,2.94,30000,No,Yes,True
+INT080,Maham Khan,Male,NED,HR,8,Hybrid,5,69,3.34,25000,Yes,No,True
+INT081,Areeba Khan,Female,KU,Web Development,4,Onsite,9,65,3.93,0,No,Yes,True
+INT082,Usman Khan,Female,NED,Data Analytics,4,Onsite,10,64,2.93,15000,No,Yes,True
+INT083,Ahmed Khan,Male,FAST,Web Development,6,Remote,6,86,3.24,25000,Yes,No,False
+INT084,Maham Khan,Male,Iqra University,AI,4,Remote,10,74,2.87,10000,Yes,No,False
+INT085,Bilal Khan,Male,FAST,AI,4,Remote,3,61,2.35,15000,No,Yes,True
+INT086,Ahmed Khan,Female,NED,AI,4,Remote,3,85,2.87,30000,No,Yes,False
+INT087,Maham Khan,Female,KU,HR,4,Hybrid,2,92,3.33,15000,Yes,No,False
+INT088,Sara Khan,Female,FAST,Data Analytics,8,Remote,8,100,3.8,10000,Yes,No,False
+INT089,Usman Khan,Female,Bahria University,Web Development,6,Hybrid,7,80,2.78,5000,Yes,No,False
+INT090,Zain Khan,Female,FAST,Marketing,8,Remote,7,59,2.82,10000,Yes,No,True
+INT091,Noor Khan,Female,KU,Web Development,8,Hybrid,8,67,3.84,20000,No,Yes,True
+INT092,Noor Khan,Female,FAST,Web Development,12,Onsite,9,93,2.34,30000,Yes,No,False
+INT093,Zain Khan,Male,NED,Data Analytics,12,Onsite,4,65,3.67,10000,Yes,No,True
+INT094,Saad Khan,Female,Bahria University,Marketing,4,Remote,7,77,3.2,10000,Yes,No,False
+INT095,Ali Khan,Male,Bahria University,Data Analytics,8,Remote,6,80,2.83,20000,Yes,No,False
+INT096,Zain Khan,Male,FAST,HR,8,Hybrid,5,69,3.81,20000,Yes,No,True
+INT097,Bilal Khan,Female,Iqra University,Data Analytics,8,Remote,4,78,2.33,25000,Yes,No,False
+INT098,Ahmed Khan,Female,NED,AI,12,Hybrid,6,66,3.05,20000,Yes,No,True
+INT099,Ahmed Khan,Female,Bahria University,HR,4,Hybrid,1,74,3.43,15000,Yes,No,False
+INT100,Usman Khan,Male,KU,AI,12,Remote,7,63,2.52,10000,No,Yes,True
+INT101,Areeba Khan,Male,KU,Web Development,12,Remote,1,75,3.93,10000,Yes,No,False
+INT102,Noor Khan,Male,NED,Data Analytics,4,Onsite,4,93,3.79,15000,Yes,No,False
+INT103,Hamza Khan,Female,NED,Marketing,6,Remote,7,71,3.97,0,Yes,No,False
+INT104,Ayesha Khan,Female,Iqra University,HR,12,Hybrid,6,78,3.27,5000,Yes,No,False
+INT105,Areeba Khan,Female,NED,AI,8,Remote,4,91,3.21,0,No,Yes,False
+INT106,Noor Khan,Male,NED,Marketing,8,Hybrid,9,58,3.28,30000,Yes,No,True
+INT107,Areeba Khan,Female,Iqra University,AI,6,Hybrid,6,92,3.56,30000,Yes,No,False
+INT108,Hira Khan,Male,Iqra University,AI,4,Hybrid,3,55,2.46,20000,Yes,No,True
+INT109,Zain Khan,Male,NED,AI,6,Hybrid,7,81,4.0,0,Yes,No,False
+INT110,Hamza Khan,Male,NED,HR,6,Remote,4,92,2.49,20000,No,Yes,False
+INT111,Areeba Khan,Male,FAST,HR,6,Onsite,9,77,3.89,25000,Yes,No,False
+INT112,Noor Khan,Male,Iqra University,Marketing,6,Remote,10,73,3.98,0,Yes,No,False
+INT113,Dua Khan,Male,FAST,Web Development,8,Onsite,4,75,3.31,5000,No,Yes,False
+INT114,Noor Khan,Male,KU,AI,8,Hybrid,3,92,3.34,25000,Yes,No,False
+INT115,Maham Khan,Male,NED,Web Development,12,Remote,7,68,3.69,0,Yes,No,True
+INT116,Dua Khan,Male,Iqra University,Data Analytics,6,Remote,5,76,2.44,30000,Yes,No,False
+INT117,Ali Khan,Female,FAST,AI,6,Remote,4,74,3.76,10000,Yes,No,False
+INT118,Maham Khan,Female,FAST,HR,6,Remote,6,63,2.77,30000,Yes,No,True
+INT119,Ayesha Khan,Female,Bahria University,Marketing,12,Remote,7,75,2.58,0,Yes,No,False
+INT120,Maham Khan,Male,NED,AI,12,Remote,4,55,3.32,5000,Yes,No,True
+INT121,Hamza Khan,Female,KU,Data Analytics,8,Hybrid,1,62,3.76,25000,Yes,No,True
+INT122,Bilal Khan,Male,Iqra University,Marketing,6,Remote,8,57,2.68,5000,Yes,No,True
+INT123,Ali Khan,Female,Iqra University,AI,12,Remote,7,74,3.45,25000,Yes,No,False
+INT124,Dua Khan,Female,KU,Data Analytics,4,Remote,3,64,3.66,10000,Yes,No,True
+INT125,Ahmed Khan,Female,Bahria University,AI,6,Hybrid,10,69,3.78,25000,Yes,No,True
+INT126,Sara Khan,Male,KU,Data Analytics,12,Onsite,10,92,3.56,20000,Yes,No,False
+INT127,Zain Khan,Male,FAST,Web Development,8,Hybrid,9,62,3.43,0,Yes,No,True
+INT128,Fatima Khan,Female,KU,Marketing,6,Remote,1,76,3.41,5000,No,Yes,False
+INT129,Usman Khan,Male,NED,Data Analytics,8,Remote,5,75,2.71,5000,Yes,No,False
+INT130,Hira Khan,Female,NED,Data Analytics,12,Hybrid,8,66,3.06,30000,Yes,No,True
+INT131,Areeba Khan,Female,NED,HR,6,Onsite,10,81,2.35,25000,Yes,No,False
+INT132,Hira Khan,Female,NED,Web Development,6,Hybrid,7,97,3.1,20000,Yes,No,False
+INT133,Ahmed Khan,Female,KU,HR,4,Onsite,7,55,3.2,5000,No,Yes,True
+INT134,Hira Khan,Male,FAST,Data Analytics,12,Onsite,1,72,3.03,10000,Yes,No,False
+INT135,Areeba Khan,Male,FAST,HR,4,Remote,4,81,2.79,20000,No,Yes,False
+INT136,Maham Khan,Male,KU,Marketing,8,Onsite,5,67,2.93,20000,Yes,No,True
+INT137,Bilal Khan,Male,FAST,Data Analytics,8,Remote,6,97,2.84,0,Yes,No,False
+INT138,Hira Khan,Male,FAST,Marketing,12,Onsite,10,95,2.99,25000,Yes,No,False
+INT139,Ahmed Khan,Male,FAST,HR,4,Onsite,5,99,3.48,15000,Yes,No,False
+INT140,Ali Khan,Female,Bahria University,AI,4,Hybrid,9,63,2.96,15000,Yes,No,True
+INT141,Usman Khan,Male,KU,Marketing,6,Onsite,3,95,3.42,25000,No,Yes,False
+INT142,Ali Khan,Male,Bahria University,Data Analytics,6,Onsite,6,91,3.21,25000,Yes,No,False
+INT143,Saad Khan,Male,Iqra University,Web Development,4,Remote,6,78,3.45,20000,Yes,No,False
+INT144,Hira Khan,Male,KU,Marketing,12,Onsite,4,88,2.57,30000,Yes,No,False
+INT145,Fatima Khan,Female,KU,HR,6,Hybrid,1,55,3.56,0,No,Yes,True
+INT146,Areeba Khan,Male,KU,Web Development,8,Remote,8,59,3.74,0,Yes,No,True
+INT147,Usman Khan,Female,NED,Web Development,8,Hybrid,3,72,3.81,20000,Yes,No,False
+INT148,Sara Khan,Male,Bahria University,Marketing,12,Hybrid,7,87,2.9,25000,Yes,No,False
+INT149,Areeba Khan,Female,Bahria University,HR,12,Hybrid,6,97,3.1,20000,Yes,No,False
+INT150,Fatima Khan,Female,Iqra University,AI,6,Remote,6,72,2.47,10000,Yes,No,False
